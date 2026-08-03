@@ -1,0 +1,15 @@
+Short Explanation
+
+Implicit Type Casting (Widening):
+
+Implicit type casting is done automatically by Java.
+It converts a smaller data type into a larger data type.
+No data is lost during the conversion.
+Example: int → double.
+
+Explicit Type Casting (Narrowing):
+
+Explicit type casting is done manually by the programmer using the cast operator.
+It converts a larger data type into a smaller data type.
+Some data may be lost during the conversion.
+Example: double → int.

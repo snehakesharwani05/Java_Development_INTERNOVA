@@ -1,0 +1,3 @@
+Short Explanation
+
+Type casting is commonly used in Java when converting one data type to another during calculations or data processing. Implicit type casting is performed automatically when converting a smaller data type to a larger one. Explicit type casting is done manually when converting a larger data type to a smaller one, which may result in data loss. Type casting is widely used in arithmetic operations, user input handling, and data conversion between different variable types.
