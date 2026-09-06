@@ -1,0 +1,4 @@
+Student ID: 101
+Student Name: Sneha Kesharwani
+Course: B.Tech Computer Science and Engineering
+Marks: 85
